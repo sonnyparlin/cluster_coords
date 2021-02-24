@@ -24,6 +24,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 -86.9997771932092
 >>> coords.lat
 40.00013474729262
+```
 
 Code borrowed from Stack Exchange answer: 
 https://gis.stackexchange.com/questions/2951/algorithm-for-offsetting-a-latitude-longitude-by-some-amount-of-meters
