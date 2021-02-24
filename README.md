@@ -27,3 +27,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 Code borrowed from Stack Exchange answer: [here](https://gis.stackexchange.com/questions/2951/algorithm-for-offsetting-a-latitude-longitude-by-some-amount-of-meters), answer by [haakon-d](https://gis.stackexchange.com/users/260/haakon-d).
+
+This project is open source and is located [here](https://github.com/sonnyparlin/cluster_coords).
