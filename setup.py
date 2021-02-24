@@ -6,7 +6,7 @@ def read(fname):
 
 setup(
     name="cluster_coords", # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="Sonny Parlin",
     author_email="ask@sparl.in",
     description=("Build cluster from multiple identical longitude and latitude coordinates"),
