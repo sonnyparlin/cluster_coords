@@ -26,6 +26,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 40.00013474729262
 ```
 
-Code borrowed from Stack Exchange answer: 
-https://gis.stackexchange.com/questions/2951/algorithm-for-offsetting-a-latitude-longitude-by-some-amount-of-meters
-by (haakon-d) https://gis.stackexchange.com/users/260/haakon-d
+Code borrowed from Stack Exchange answer: [here](https://gis.stackexchange.com/questions/2951/algorithm-for-offsetting-a-latitude-longitude-by-some-amount-of-meters), answer by [haakon-d](https://gis.stackexchange.com/users/260/haakon-d).
