@@ -5,7 +5,10 @@ Given a longitude, and latitude, cluster_coords will create a new latitude and l
 ```python
 from cluster_coords import RandomCoord
 
-coords = RandomCoord(<lomgitude>,<latitude>).randomize_coords()
+longitude=-82.562800
+latitude=27.488960
+
+coords = RandomCoord(longitude,latitude).randomize_coords()
 new_lat = coords.lat
 new_lng = coords.lng
 ```
