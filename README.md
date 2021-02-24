@@ -22,11 +22,11 @@ Python 3.9.1 (default, Jan 20 2021, 00:00:00)
 [GCC 10.2.1 20201125 (Red Hat 10.2.1-9)] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> from cluster_coords import RandomCoord
->>> coords = RandomCoord(-87,40).randomize_coords()
+>>> coords=RandomCoord(-82.562800,27.488960).randomize_coords()
 >>> coords.lng
--86.9997771932092
+-82.56268860928326
 >>> coords.lat
-40.00013474729262
+27.489076780986935
 ```
 
 Code borrowed from Stack Exchange answer: [here](https://gis.stackexchange.com/questions/2951/algorithm-for-offsetting-a-latitude-longitude-by-some-amount-of-meters), answer by [haakon-d](https://gis.stackexchange.com/users/260/haakon-d).
