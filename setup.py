@@ -5,7 +5,7 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name="cluster_coords-sonnyparlin", # Replace with your own username
+    name="cluster_coords", # Replace with your own username
     version="0.0.1",
     author="Sonny Parlin",
     author_email="ask@sparl.in",
