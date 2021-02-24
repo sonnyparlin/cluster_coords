@@ -1,6 +1,6 @@
 # Cluster Coordinates
 
-Given ia longitude, and latitude, cluster_coords will create a new latitude and longitude randomly placing it anywhere between 5 and 25 meters from the original longitude and latitude.
+Given a longitude, and latitude, cluster_coords will create a new latitude and longitude randomly placing it anywhere between 5 and 25 meters from the original longitude and latitude. This is helpful when adding points to a map, you don't want to add a point directly on top of another point, so this module helps you create a cluster.
 
 ```python
 from cluster_coords import RandomCoord
